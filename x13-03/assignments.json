@@ -13,6 +13,19 @@
       "autograder": "default",
       "feedback_pr": true,
       "submission_mode": "tag"
+    },
+    {
+      "slug": "hw01",
+      "name": "HW 01 Assignment",
+      "template": {
+        "owner": "DATA-413-613-26F",
+        "repo": "hw_01_git",
+        "branch": "main"
+      },
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "submission_mode": "tag"
     }
   ]
 }
