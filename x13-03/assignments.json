@@ -26,6 +26,19 @@
       "autograder": "default",
       "feedback_pr": true,
       "submission_mode": "tag"
+    },
+    {
+      "slug": "hw02",
+      "name": "Tidyverse Review",
+      "template": {
+        "owner": "DATA-413-613-26F",
+        "repo": "hw_02_tidyverse_review",
+        "branch": "main"
+      },
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "submission_mode": "tag"
     }
   ]
 }
