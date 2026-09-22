@@ -39,6 +39,19 @@
       "autograder": "default",
       "feedback_pr": true,
       "submission_mode": "tag"
+    },
+    {
+      "slug": "hw03",
+      "name": "Lists and purrr",
+      "template": {
+        "owner": "DATA-413-613-26F",
+        "repo": "hw_03_lists_purrr",
+        "branch": "main"
+      },
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "submission_mode": "tag"
     }
   ]
 }
