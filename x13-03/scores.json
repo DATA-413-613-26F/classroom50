@@ -1,4 +1,155 @@
 {
   "schema": "classroom50/scores/v1",
-  "assignments": {}
+  "assignments": {
+    "hw01": {
+      "type": "individual",
+      "entries": [
+        {
+          "owner": "ivonneriver",
+          "email": "ir5966a@student.american.edu",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "x13-03",
+              "assignment_type": "individual",
+              "owner": "ivonneriver",
+              "submission": "submit/2026-09-13T15-21-56Z-a414cb1",
+              "commit": "https://github.com/DATA-413-613-26F/x13-03-hw01-ivonneriver/commit/a414cb1e2e4b9c7df73510de7d3840e7ef4dea36",
+              "release": "https://github.com/DATA-413-613-26F/x13-03-hw01-ivonneriver/releases/tag/submit%2F2026-09-13T15-21-56Z-a414cb1",
+              "review": "https://github.com/DATA-413-613-26F/x13-03-hw01-ivonneriver/compare/f4daab688055fbac53e408a2ec8d8b4df1a05e9f...a414cb1e2e4b9c7df73510de7d3840e7ef4dea36",
+              "datetime": "2026-09-13T15:21:53Z",
+              "graded_at": "2026-09-13T15:22:20Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "ivonneriver",
+                "id": 157519844
+              }
+            }
+          ]
+        },
+        {
+          "owner": "Sloane64152",
+          "email": "sj6415a@student.american.edu",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "x13-03",
+              "assignment_type": "individual",
+              "owner": "sloane64152",
+              "submission": "submit/2026-09-14T02-32-56Z-1348f0a",
+              "commit": "https://github.com/DATA-413-613-26F/x13-03-hw01-sloane64152/commit/1348f0ae4de33f6b8de0f815b5bb5e121bc67bc1",
+              "release": "https://github.com/DATA-413-613-26F/x13-03-hw01-sloane64152/releases/tag/submit%2F2026-09-14T02-32-56Z-1348f0a",
+              "review": "https://github.com/DATA-413-613-26F/x13-03-hw01-sloane64152/compare/55374960e5c6bcfdca82f124bd25b8fe83855d84...1348f0ae4de33f6b8de0f815b5bb5e121bc67bc1",
+              "datetime": "2026-09-14T02:32:54Z",
+              "graded_at": "2026-09-14T02:33:20Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Sloane64152",
+                "id": 229957721
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "x13-03",
+              "assignment_type": "individual",
+              "owner": "sloane64152",
+              "submission": "submit/2026-09-14T02-30-33Z-b5a8800",
+              "commit": "https://github.com/DATA-413-613-26F/x13-03-hw01-sloane64152/commit/b5a8800f0cf9913f225fa897e449cbd957fda810",
+              "release": "https://github.com/DATA-413-613-26F/x13-03-hw01-sloane64152/releases/tag/submit%2F2026-09-14T02-30-33Z-b5a8800",
+              "review": "https://github.com/DATA-413-613-26F/x13-03-hw01-sloane64152/compare/55374960e5c6bcfdca82f124bd25b8fe83855d84...b5a8800f0cf9913f225fa897e449cbd957fda810",
+              "datetime": "2026-09-14T02:30:30Z",
+              "graded_at": "2026-09-14T02:31:01Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Sloane64152",
+                "id": 229957721
+              }
+            }
+          ]
+        },
+        {
+          "owner": "alexashhan",
+          "email": "alexashhan@gmail.com",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "x13-03",
+              "assignment_type": "individual",
+              "owner": "alexashhan",
+              "submission": "submit/2026-09-15T00-41-42Z-e966372",
+              "commit": "https://github.com/DATA-413-613-26F/x13-03-hw01-alexashhan/commit/e9663724a732a5dfc08c5342dbb5e1353ab84975",
+              "release": "https://github.com/DATA-413-613-26F/x13-03-hw01-alexashhan/releases/tag/submit%2F2026-09-15T00-41-42Z-e966372",
+              "review": "https://github.com/DATA-413-613-26F/x13-03-hw01-alexashhan/compare/5e12f35a7bfe57d5845d6e919cce5ea79e0768a8...e9663724a732a5dfc08c5342dbb5e1353ab84975",
+              "datetime": "2026-09-15T00:41:39Z",
+              "graded_at": "2026-09-15T00:42:04Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "alexashhan",
+                "id": 323391520
+              }
+            }
+          ]
+        },
+        {
+          "owner": "gabbyeleazwong",
+          "email": "gw3173a@american.edu",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "x13-03",
+              "assignment_type": "individual",
+              "owner": "gabbyeleazwong",
+              "submission": "submit/2026-09-13T20-06-59Z-1de5f66",
+              "commit": "https://github.com/DATA-413-613-26F/x13-03-hw01-gabbyeleazwong/commit/1de5f66884f2d78a36e84788cca17e1cc230203e",
+              "release": "https://github.com/DATA-413-613-26F/x13-03-hw01-gabbyeleazwong/releases/tag/submit%2F2026-09-13T20-06-59Z-1de5f66",
+              "review": "https://github.com/DATA-413-613-26F/x13-03-hw01-gabbyeleazwong/compare/0b0016515005865a0d8873141a01450ac79b583b...1de5f66884f2d78a36e84788cca17e1cc230203e",
+              "datetime": "2026-09-13T20:06:56Z",
+              "graded_at": "2026-09-13T20:07:25Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "gabbyeleazwong",
+                "id": 323736386
+              }
+            }
+          ]
+        },
+        {
+          "owner": "CarinaCampellone",
+          "email": "carinacampellone@gmail.com",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "x13-03",
+              "assignment_type": "individual",
+              "owner": "carinacampellone",
+              "submission": "submit/2026-09-14T03-37-08Z-7782275",
+              "commit": "https://github.com/DATA-413-613-26F/x13-03-hw01-carinacampellone/commit/7782275954f36df98dc3b0fcac49c939b36e470a",
+              "release": "https://github.com/DATA-413-613-26F/x13-03-hw01-carinacampellone/releases/tag/submit%2F2026-09-14T03-37-08Z-7782275",
+              "review": "https://github.com/DATA-413-613-26F/x13-03-hw01-carinacampellone/compare/afaeb784c12ba720896e1be0ffbfe78e89efe873...7782275954f36df98dc3b0fcac49c939b36e470a",
+              "datetime": "2026-09-14T03:37:06Z",
+              "graded_at": "2026-09-14T03:37:38Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "CarinaCampellone",
+                "id": 326280764
+              }
+            }
+          ]
+        }
+      ],
+      "collected_at": "2026-09-25T21:01:20Z"
+    }
+  }
 }
