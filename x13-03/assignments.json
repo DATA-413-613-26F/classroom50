@@ -52,6 +52,19 @@
       "autograder": "default",
       "feedback_pr": true,
       "submission_mode": "tag"
+    },
+    {
+      "slug": "hw05",
+      "name": "api data",
+      "template": {
+        "owner": "DATA-413-613-26F",
+        "repo": "hw_05_api_data",
+        "branch": "main"
+      },
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "submission_mode": "tag"
     }
   ]
 }
