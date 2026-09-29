@@ -65,6 +65,19 @@
       "autograder": "default",
       "feedback_pr": true,
       "submission_mode": "tag"
+    },
+    {
+      "slug": "hw04",
+      "name": "functions",
+      "template": {
+        "owner": "DATA-413-613-26F",
+        "repo": "hw_04_functions",
+        "branch": "main"
+      },
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "submission_mode": "tag"
     }
   ]
 }
