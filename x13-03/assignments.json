@@ -78,6 +78,19 @@
       "autograder": "default",
       "feedback_pr": true,
       "submission_mode": "tag"
+    },
+    {
+      "slug": "hw06",
+      "name": "webscraping",
+      "template": {
+        "owner": "DATA-413-613-26F",
+        "repo": "hw_06_web_scraping",
+        "branch": "main"
+      },
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "submission_mode": "tag"
     }
   ]
 }
