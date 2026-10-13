@@ -91,6 +91,20 @@
       "autograder": "default",
       "feedback_pr": true,
       "submission_mode": "tag"
+    },
+    {
+      "slug": "gp26f",
+      "name": "final project",
+      "template": {
+        "owner": "DATA-413-613-26F",
+        "repo": "group_project_template",
+        "branch": "main"
+      },
+      "mode": "group",
+      "autograder": "default",
+      "max_group_size": 3,
+      "feedback_pr": true,
+      "submission_mode": "tag"
     }
   ]
 }
