@@ -786,6 +786,137 @@
         }
       ],
       "collected_at": "2026-10-21T20:22:48Z"
+    },
+    "hw06": {
+      "type": "individual",
+      "entries": [
+        {
+          "owner": "carolinesmithh",
+          "email": "cs4586a@student.american.edu",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "x13-03",
+              "assignment_type": "individual",
+              "owner": "carolinesmithh",
+              "submission": "submit/2026-10-20T04-01-50Z-e71e5ac",
+              "commit": "https://github.com/DATA-413-613-26F/x13-03-hw06-carolinesmithh/commit/e71e5ac2d8132d254be245049a6e2c41f00b5ad0",
+              "release": "https://github.com/DATA-413-613-26F/x13-03-hw06-carolinesmithh/releases/tag/submit%2F2026-10-20T04-01-50Z-e71e5ac",
+              "review": "https://github.com/DATA-413-613-26F/x13-03-hw06-carolinesmithh/compare/b052da1106644a6eefb6ae4b4883795a1eabd283...e71e5ac2d8132d254be245049a6e2c41f00b5ad0",
+              "datetime": "2026-10-20T04:01:46Z",
+              "graded_at": "2026-10-20T04:02:19Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "carolinesmithh",
+                "id": 195926533
+              }
+            }
+          ]
+        },
+        {
+          "owner": "ml2485a",
+          "email": "ml2485a@student.american.edu",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "x13-03",
+              "assignment_type": "individual",
+              "owner": "ml2485a",
+              "submission": "submit/2026-10-20T03-41-47Z-536581f",
+              "commit": "https://github.com/DATA-413-613-26F/x13-03-hw06-ml2485a/commit/536581fd3fb1d71e5af294b6da2319f83c87e8da",
+              "release": "https://github.com/DATA-413-613-26F/x13-03-hw06-ml2485a/releases/tag/submit%2F2026-10-20T03-41-47Z-536581f",
+              "review": "https://github.com/DATA-413-613-26F/x13-03-hw06-ml2485a/compare/b5a7c6e8192d1aec3d1de48f99231d7c773a066c...536581fd3fb1d71e5af294b6da2319f83c87e8da",
+              "datetime": "2026-10-20T03:41:44Z",
+              "graded_at": "2026-10-20T03:42:16Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "ml2485a",
+                "id": 231288607
+              }
+            }
+          ]
+        },
+        {
+          "owner": "gabbyeleazwong",
+          "email": "gw3173a@american.edu",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "x13-03",
+              "assignment_type": "individual",
+              "owner": "gabbyeleazwong",
+              "submission": "submit/2026-10-20T01-49-43Z-c632ac6",
+              "commit": "https://github.com/DATA-413-613-26F/x13-03-hw06-gabbyeleazwong/commit/c632ac6c051642a68d245014d37836ba67eeb192",
+              "release": "https://github.com/DATA-413-613-26F/x13-03-hw06-gabbyeleazwong/releases/tag/submit%2F2026-10-20T01-49-43Z-c632ac6",
+              "review": "https://github.com/DATA-413-613-26F/x13-03-hw06-gabbyeleazwong/compare/28e0b9a97cf0b49b5035c42ccd71c75af0ec3354...c632ac6c051642a68d245014d37836ba67eeb192",
+              "datetime": "2026-10-20T01:49:39Z",
+              "graded_at": "2026-10-20T01:50:07Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "gabbyeleazwong",
+                "id": 323736386
+              }
+            }
+          ]
+        },
+        {
+          "owner": "Maddyshantz05",
+          "email": "ms9923a@student.american.edu",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "x13-03",
+              "assignment_type": "individual",
+              "owner": "maddyshantz05",
+              "submission": "submit/2026-10-19T21-38-06Z-064f07e",
+              "commit": "https://github.com/DATA-413-613-26F/x13-03-hw06-maddyshantz05/commit/064f07ed3033701357d6c71270c1d8f916b5ebfb",
+              "release": "https://github.com/DATA-413-613-26F/x13-03-hw06-maddyshantz05/releases/tag/submit%2F2026-10-19T21-38-06Z-064f07e",
+              "review": "https://github.com/DATA-413-613-26F/x13-03-hw06-maddyshantz05/compare/9b52aeb5bca2a25e2e2df1b09e25f7cba2c704a7...064f07ed3033701357d6c71270c1d8f916b5ebfb",
+              "datetime": "2026-10-19T21:38:04Z",
+              "graded_at": "2026-10-19T21:38:33Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Maddyshantz05",
+                "id": 324593640
+              }
+            }
+          ]
+        },
+        {
+          "owner": "SophieWillemse",
+          "email": "sophie.willemse@ziggo.nl",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "x13-03",
+              "assignment_type": "individual",
+              "owner": "sophiewillemse",
+              "submission": "submit/2026-10-20T01-42-14Z-383dee9",
+              "commit": "https://github.com/DATA-413-613-26F/x13-03-hw06-sophiewillemse/commit/383dee9f968bfe7090346d99c2849496bccb7708",
+              "release": "https://github.com/DATA-413-613-26F/x13-03-hw06-sophiewillemse/releases/tag/submit%2F2026-10-20T01-42-14Z-383dee9",
+              "review": "https://github.com/DATA-413-613-26F/x13-03-hw06-sophiewillemse/compare/ae8fb96fa8314a6665a13b94e09a68fe0734e3d4...383dee9f968bfe7090346d99c2849496bccb7708",
+              "datetime": "2026-10-20T01:42:09Z",
+              "graded_at": "2026-10-20T01:42:44Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "SophieWillemse",
+                "id": 325833548
+              }
+            }
+          ]
+        }
+      ],
+      "collected_at": "2026-10-21T20:27:18Z"
     }
   }
 }
