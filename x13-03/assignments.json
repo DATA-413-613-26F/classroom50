@@ -105,6 +105,19 @@
       "max_group_size": 3,
       "feedback_pr": true,
       "submission_mode": "tag"
+    },
+    {
+      "slug": "hw07",
+      "name": "SQL and Database",
+      "template": {
+        "owner": "DATA-413-613-26F",
+        "repo": "hw_07_sql",
+        "branch": "main"
+      },
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "submission_mode": "tag"
     }
   ]
 }
