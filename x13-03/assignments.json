@@ -118,6 +118,19 @@
       "autograder": "default",
       "feedback_pr": true,
       "submission_mode": "tag"
+    },
+    {
+      "slug": "hw08",
+      "name": "Shiny Basics",
+      "template": {
+        "owner": "DATA-413-613-26F",
+        "repo": "hw_08_shiny_basics",
+        "branch": "main"
+      },
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "submission_mode": "tag"
     }
   ]
 }
