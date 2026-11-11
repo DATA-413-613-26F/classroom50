@@ -131,6 +131,19 @@
       "autograder": "default",
       "feedback_pr": true,
       "submission_mode": "tag"
+    },
+    {
+      "slug": "hw09",
+      "name": "Shiny Layouts",
+      "template": {
+        "owner": "DATA-413-613-26F",
+        "repo": "hw_09_shiny_layouts",
+        "branch": "main"
+      },
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "submission_mode": "tag"
     }
   ]
 }
