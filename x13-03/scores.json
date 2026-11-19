@@ -1229,6 +1229,187 @@
         }
       ],
       "collected_at": "2026-11-14T21:27:29Z"
+    },
+    "hw09": {
+      "type": "individual",
+      "entries": [
+        {
+          "owner": "ivonneriver",
+          "email": "ir5966a@student.american.edu",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "x13-03",
+              "assignment_type": "individual",
+              "owner": "ivonneriver",
+              "submission": "submit/2026-11-14T02-01-53Z-04b89a5",
+              "commit": "https://github.com/DATA-413-613-26F/x13-03-hw09-ivonneriver/commit/04b89a5078ded35a8cfc0092a6bd8240efeb1569",
+              "release": "https://github.com/DATA-413-613-26F/x13-03-hw09-ivonneriver/releases/tag/submit%2F2026-11-14T02-01-53Z-04b89a5",
+              "review": "https://github.com/DATA-413-613-26F/x13-03-hw09-ivonneriver/compare/26d07c32d034ce1cd3d02971abd5c714259ffc07...04b89a5078ded35a8cfc0092a6bd8240efeb1569",
+              "datetime": "2026-11-14T02:01:51Z",
+              "graded_at": "2026-11-14T02:02:18Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "ivonneriver",
+                "id": 157519844
+              }
+            }
+          ]
+        },
+        {
+          "owner": "sonyap206-coder",
+          "email": "sp0189a@student.american.edu",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "x13-03",
+              "assignment_type": "individual",
+              "owner": "sonyap206-coder",
+              "submission": "submit/2026-11-13T14-02-56Z-31bf1f8",
+              "commit": "https://github.com/DATA-413-613-26F/x13-03-hw09-sonyap206-coder/commit/31bf1f8725b91231dec4329bc6eae5f80975a857",
+              "release": "https://github.com/DATA-413-613-26F/x13-03-hw09-sonyap206-coder/releases/tag/submit%2F2026-11-13T14-02-56Z-31bf1f8",
+              "review": "https://github.com/DATA-413-613-26F/x13-03-hw09-sonyap206-coder/compare/322930a97eb0e604253458d2440bf57789162fbe...31bf1f8725b91231dec4329bc6eae5f80975a857",
+              "datetime": "2026-11-13T14:02:55Z",
+              "graded_at": "2026-11-13T14:03:19Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "sonyap206-coder",
+                "id": 254575442
+              }
+            }
+          ]
+        },
+        {
+          "owner": "Lucadaalv",
+          "email": "la2794a@american.edu",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "x13-03",
+              "assignment_type": "individual",
+              "owner": "lucadaalv",
+              "submission": "submit/2026-11-18T04-42-31Z-140f4fb",
+              "commit": "https://github.com/DATA-413-613-26F/x13-03-hw09-lucadaalv/commit/140f4fbcc32d2cee1c1b4cb415c5d968b29da6cb",
+              "release": "https://github.com/DATA-413-613-26F/x13-03-hw09-lucadaalv/releases/tag/submit%2F2026-11-18T04-42-31Z-140f4fb",
+              "review": "https://github.com/DATA-413-613-26F/x13-03-hw09-lucadaalv/compare/bca1cb3afb52382795c117899794f11ec2ddd057...140f4fbcc32d2cee1c1b4cb415c5d968b29da6cb",
+              "datetime": "2026-11-18T04:42:28Z",
+              "graded_at": "2026-11-18T04:42:56Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Lucadaalv",
+                "id": 255221034
+              }
+            }
+          ]
+        },
+        {
+          "owner": "AbbyNolan66",
+          "email": "an8152a@student.american.edu",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "x13-03",
+              "assignment_type": "individual",
+              "owner": "abbynolan66",
+              "submission": "submit/2026-11-12T17-27-38Z-89aa11b",
+              "commit": "https://github.com/DATA-413-613-26F/x13-03-hw09-abbynolan66/commit/89aa11b33cac42cda49ef97f4df310ede231787e",
+              "release": "https://github.com/DATA-413-613-26F/x13-03-hw09-abbynolan66/releases/tag/submit%2F2026-11-12T17-27-38Z-89aa11b",
+              "review": "https://github.com/DATA-413-613-26F/x13-03-hw09-abbynolan66/compare/afa0f7f93cdc900976120b6b1c4ddd7bf3eae640...89aa11b33cac42cda49ef97f4df310ede231787e",
+              "datetime": "2026-11-12T17:27:37Z",
+              "graded_at": "2026-11-12T17:28:17Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "AbbyNolan66",
+                "id": 323689870
+              }
+            }
+          ]
+        },
+        {
+          "owner": "gabbyeleazwong",
+          "email": "gw3173a@american.edu",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "x13-03",
+              "assignment_type": "individual",
+              "owner": "gabbyeleazwong",
+              "submission": "submit/2026-11-17T00-27-24Z-1ac5444",
+              "commit": "https://github.com/DATA-413-613-26F/x13-03-hw09-gabbyeleazwong/commit/1ac5444dac3e88525695b509f6c693d3f00721b4",
+              "release": "https://github.com/DATA-413-613-26F/x13-03-hw09-gabbyeleazwong/releases/tag/submit%2F2026-11-17T00-27-24Z-1ac5444",
+              "review": "https://github.com/DATA-413-613-26F/x13-03-hw09-gabbyeleazwong/compare/d88786b9faa0d414330dc1e02205f6e9ee137260...1ac5444dac3e88525695b509f6c693d3f00721b4",
+              "datetime": "2026-11-17T00:27:22Z",
+              "graded_at": "2026-11-17T00:27:51Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "gabbyeleazwong",
+                "id": 323736386
+              }
+            }
+          ]
+        },
+        {
+          "owner": "Maddyshantz05",
+          "email": "ms9923a@student.american.edu",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "x13-03",
+              "assignment_type": "individual",
+              "owner": "maddyshantz05",
+              "submission": "submit/2026-11-14T18-53-02Z-2b8715f",
+              "commit": "https://github.com/DATA-413-613-26F/x13-03-hw09-maddyshantz05/commit/2b8715f3810fec804c720ede43306f6ef64416ce",
+              "release": "https://github.com/DATA-413-613-26F/x13-03-hw09-maddyshantz05/releases/tag/submit%2F2026-11-14T18-53-02Z-2b8715f",
+              "review": "https://github.com/DATA-413-613-26F/x13-03-hw09-maddyshantz05/compare/2eca14186e1c5334b64b4ab543fa932cff88a1d9...2b8715f3810fec804c720ede43306f6ef64416ce",
+              "datetime": "2026-11-14T18:53:01Z",
+              "graded_at": "2026-11-14T18:53:27Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Maddyshantz05",
+                "id": 324593640
+              }
+            }
+          ]
+        },
+        {
+          "owner": "SophieWillemse",
+          "email": "sophie.willemse@ziggo.nl",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "x13-03",
+              "assignment_type": "individual",
+              "owner": "sophiewillemse",
+              "submission": "submit/2026-11-17T23-54-00Z-6601c87",
+              "commit": "https://github.com/DATA-413-613-26F/x13-03-hw09-sophiewillemse/commit/6601c870128d89f74d99aa5b9553c18cb55156dd",
+              "release": "https://github.com/DATA-413-613-26F/x13-03-hw09-sophiewillemse/releases/tag/submit%2F2026-11-17T23-54-00Z-6601c87",
+              "review": "https://github.com/DATA-413-613-26F/x13-03-hw09-sophiewillemse/compare/1d3bc983a6efb2b4cc326c3f6ac4d02ed50732c4...6601c870128d89f74d99aa5b9553c18cb55156dd",
+              "datetime": "2026-11-17T23:53:57Z",
+              "graded_at": "2026-11-17T23:54:26Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "SophieWillemse",
+                "id": 325833548
+              }
+            }
+          ]
+        }
+      ],
+      "collected_at": "2026-11-19T04:18:52Z"
     }
   }
 }
